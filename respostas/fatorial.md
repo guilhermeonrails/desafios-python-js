@@ -1,4 +1,4 @@
-![alt text](repostas/image.png)
+![alt text](https://github.com/guilhermeonrails/desafios-python-js/blob/main/respostas/image.png)
 
 ## Teste de Mesa da Função `factorial`
 
