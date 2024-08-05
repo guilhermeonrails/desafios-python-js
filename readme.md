@@ -1,25 +1,14 @@
 # Desafios de Programação
 
-## 1. Soma de Dois Números
-Crie uma função que receba dois números como argumentos e retorne a soma deles.
+## 1. Somando uma lista
+Dada uma lista de números, some todos os elementos sem usar métodos built in.
 
-## 2. Idade em Dias
-Crie uma função que receba a idade em anos e retorne a idade em dias.
+## 2. Keys in values
+Escreva uma função que inverta as chaves e os valores de um dicionário.
 
-## 3. Pontos no Jogo de Basquete
-Você está contando pontos para um jogo de basquete. Dada a quantidade de cestas de 2 e 3 pontos marcadas, encontre os pontos finais do time e retorne esse valor.
+## 3. Removendo letras da palavra
+Crie uma função que receba uma lista e uma string. A função deve remover as letras da string da lista e retornar a lista.
 
-## 4. Contagem de Valores `True`
-Crie uma função que retorna o número de valores `True` que existem em uma matriz.
-
-## 5. Sequência de Fibonacci
-Crie uma função que imprima os primeiros `n` números da sequência de Fibonacci.
-
-## 6. FizzBuzz
-Imprima números de 1 a 100. Para múltiplos de 3, imprima "Fizz" em vez do número. Para múltiplos de 5, imprima "Buzz" em vez do número. Para números que são múltiplos de 3 e 5, imprima "FizzBuzz".
-
-## 7. Fatorial Recursivo
-Crie uma função que calcule o fatorial de um número inteiro positivo `n` usando recursão.
 
 ## Respostas
 
