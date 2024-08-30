@@ -6,6 +6,7 @@ function sum(a, b) {
 
 console.log(sum(3, 2));   // Saída: 5
 console.log(sum(-3, -6)); // Saída: -9
+console.log(sum(1, 2)); // Saída: 3
 
 
 // 2
